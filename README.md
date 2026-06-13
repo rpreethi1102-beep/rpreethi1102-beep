@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="DevOps Banner" width="100%">
-</p>
 <h1 align="center">Hi 👋, I'm Preethi R</h1>
 <h3 align="center">A passionate AWS DevOps engineer from India</h3>
 
