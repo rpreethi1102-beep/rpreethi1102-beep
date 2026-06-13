@@ -24,7 +24,43 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpreethi1102-beep&show_icons=true&locale=en" alt="rpreethi1102-beep" /></p>
 ## 📄 Resume
 
 [View My Resume](./Preethi_Resume.pdf)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rpreethi1102-beep&show_icons=true&locale=en" alt="rpreethi1102-beep" /></p>
+
+## 🚀 Projects
+
+### 🔬 M.Sc Research Project (2025)
+**Structural, Optical and Electrical Characteristics of Green Synthesized rGO, SnO₂ and rGO/SnO₂ Transparent Conductive Electrodes**
+
+- Synthesized and analyzed rGO, SnO₂, and rGO/SnO₂ transparent conductive electrodes.
+- Studied structural, optical, and electrical properties using characterization techniques.
+- Evaluated material performance for transparent conductive electrode applications.
+- Conducted research as part of M.Sc dissertation work.
+
+---
+
+### ☁️ Static Website Deployment on AWS S3 (2026)
+**Self-Learning DevOps Project**
+
+- Deployed a static portfolio website using AWS S3 static website hosting.
+- Configured IAM policies and permissions for secure access management.
+- Implemented AWS CloudFront distribution for CDN-based content delivery.
+- Improved website performance through latency reduction and caching.
+- Documented the complete deployment process and architecture.
+
+**Technologies:** AWS S3, CloudFront, IAM, DNS, Static Hosting
+
+---
+
+### 🔄 CI/CD Pipeline with Jenkins, Tomcat, SonarQube & Nexus (2026)
+
+- Built a Jenkins Freestyle CI/CD pipeline for application deployment.
+- Configured Jenkins to automate build and deployment processes.
+- Integrated SonarQube for code quality analysis.
+- Used Nexus Repository Manager for artifact storage and management.
+- Deployed application to Apache Tomcat server.
+- Simulated a real-world DevOps deployment workflow.
+
+**Technologies:** Jenkins, SonarQube, Nexus, Tomcat, Git, Maven
