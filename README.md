@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./devopsengineers_cover.jpg" alt="DevOps Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Preethi R</h1>
 <h3 align="center">A passionate AWS DevOps engineer from India</h3>
 
